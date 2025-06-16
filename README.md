@@ -4,3 +4,6 @@ Contains functions for:
 - digital stain separation (color-deconvolution)
 - 2D and 3D tensor nematic order parameters
 - 2D topological defect detecion based on a kernel-trick
+
+
+![Logo](https://github.com/cocomolch/CancerNematics/tree/main/ECMImageAnalysis.png)
