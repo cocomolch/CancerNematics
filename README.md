@@ -6,4 +6,4 @@ Contains functions for:
 - 2D topological defect detecion based on a kernel-trick
 
 
-![Logo](https://github.com/cocomolch/CancerNematics/tree/main/ECMImageAnalysis.png)
+![Logo](ECMImageAnalysis.png)
